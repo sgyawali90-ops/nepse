@@ -9,5 +9,7 @@
 - NEPSE App
 - Stock Analysis Tool
 
-## 📫 Contact
+## 📫 Contact 
+9847146499
+
 GitHub: https://github.com/sgyawali90-ops# nepse_app.py
